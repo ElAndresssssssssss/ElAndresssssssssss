@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Andres Felipe 👋
 
-<!--
-**ElAndresssssssssss/ElAndresssssssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Administration graduate specialized in finance, economics, startups, marketing, and strategy. I’ve recently become deeply passionate about programming, artificial intelligence (AI), large language models (LLMs), machine learning (ML), and natural language processing (NLP).
 
-Here are some ideas to get you started:
+### About me ✌
+👨‍🎓 :major: **Administrador de empresas** , **Finance** , **computer science student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺:location: **Bogota, Colombia**
+
+🚀:current job: **Finding new challenges**
+
+📖:current learning: **Programming**
+
+💵:Ask me about: **Whatever you want about business and programming**
+
+🤖:Fun fact: **I love going to the gym and reading**
+
+### Vias de contacto 📱
+[Linkedin](https://www.linkedin.com/in/andres-caranton-35b324302/)
+
+Email (piperscarantonnn@hotmail.com)
+
+
+### Skills & Technologies  🛠
+
+Most use Languajes: **JavaScript - Python - CSS**
+
+:Tools: **Git, GitHub**
+
+:DataBases: **MYSQL**
