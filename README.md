@@ -27,6 +27,10 @@ Most use Languajes: **JavaScript - Python - CSS**
 
 :Tools: **Git, GitHub**
 
+### Actividad reciente 
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 :DataBases: **MYSQL**
 
 ### Actividad reciente 
