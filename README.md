@@ -32,11 +32,11 @@ Most use Languajes: **JavaScript - Python - CSS**
 ## ✨ Mi actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/ElAndresssssssssss](https://github.com/ElAndresssssssssss/ElAndresssssssssss)<br>
-2. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/ElAndresssssssssss](https://github.com/ElAndresssssssssss/ElAndresssssssssss)<br>
-3. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/ElAndresssssssssss](https://github.com/ElAndresssssssssss/ElAndresssssssssss)<br>
-4. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/ElAndresssssssssss](https://github.com/ElAndresssssssssss/ElAndresssssssssss)<br>
-5. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/ElAndresssssssssss](https://github.com/ElAndresssssssssss/ElAndresssssssssss)<br>
+1. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/miCuartoRepo](https://github.com/ElAndresssssssssss/miCuartoRepo)<br>
+2. 💪 Opened PR [#3](undefined) in [ElAndresssssssssss/miCuartoRepo](https://github.com/ElAndresssssssssss/miCuartoRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/miCuartoRepo](https://github.com/ElAndresssssssssss/miCuartoRepo)<br>
+4. 💪 Opened PR [#2](undefined) in [ElAndresssssssssss/miCuartoRepo](https://github.com/ElAndresssssssssss/miCuartoRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [ElAndresssssssssss/miCuartoRepo](https://github.com/ElAndresssssssssss/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
